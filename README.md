@@ -68,7 +68,7 @@ To get you started, we used actions to go ahead and made a branch and pull reque
 ### :keyboard: Activity: Create a workflow file
 
 1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-1. Navigate to the **Code** tab.
+1. Navigate to the **Code** tab naps.
 1. From the **main** branch dropdown, click on the **welcome-workflow** branch.
 1. Navigate to the `.github/workflows/` folder, then select **Add file** and click on **Create new file**.
 1. In the **Name your file...** field, enter `welcome.yml`.
